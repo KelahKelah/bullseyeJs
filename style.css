@@ -1,0 +1,16 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+#map {
+    height: 700px;
+    width: 90%;
+} 
+.sidebar {
+width: 20%;
+background-color: blue;
+
+}
+.wrapp {
+    display: flex;
+}
